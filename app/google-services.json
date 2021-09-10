@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247906200734",
+    "firebase_url": "https://snapchatoreo-4bdc5.firebaseio.com",
+    "project_id": "snapchatoreo-4bdc5",
+    "storage_bucket": "snapchatoreo-4bdc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247906200734:android:133b04e51355b2a805df8f",
+        "android_client_info": {
+          "package_name": "com.hasan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247906200734-t3aoosn2hq60tv5sf3rdjs0rudo4g22b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB8mkYRwAaMugy-fdlJPi9E9tb1WFLtSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247906200734-t3aoosn2hq60tv5sf3rdjs0rudo4g22b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
